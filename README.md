@@ -13,10 +13,6 @@ Prerequisites
 Python 3.x
 pynput library
 
-Installation
-
-Clone the repository:git clone https://github.com/your-username/keylogger.git
-
 
 Navigate to the project directory:cd keylogger
 
